@@ -1,4 +1,7 @@
 fastapi==0.115.0
 uvicorn==0.32.0
 pydantic==2.9.2
+<<<<<<< HEAD
 psycopg2-binary==2.9.10
+=======
+>>>>>>> 7dae29c1c66bf74e0c4117dcec7c1061ae60bc97
